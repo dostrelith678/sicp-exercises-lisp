@@ -1,9 +1,11 @@
 #lang racket
 
-#| Exercise 1.1: Below is a sequence of expressions. What is
-the result printed by the interpreter in response to each expression?
-Assume that the sequence is to be evaluated in
-the order in which it is presented. |#
+#|
+  Exercise 1.1: Below is a sequence of expressions. What is
+  the result printed by the interpreter in response to each expression?
+  Assume that the sequence is to be evaluated in
+  the order in which it is presented.
+|#
 
 10
 
@@ -41,19 +43,19 @@ the order in which it is presented. |#
 
 
 #|
-Answers:
-10
-12
-8
-3
-6
--
--
-19
-#f
-4
-16
-6
-16
+  Answers:
+  10
+  12
+  8
+  3
+  6
+  -
+  -
+  19
+  #f
+  4
+  16
+  6
+  16
 |#
 
